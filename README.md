@@ -20,6 +20,20 @@ An interactive browser-based memory game inspired by the classic **Simon Says**.
 * CSS3
 * JavaScript (ES6)
 
+## 📂 Project Structure
+
+```text
+Simon-Says-Game/
+├── images/
+│   ├── game.png
+│   ├── inline_image_preview.jpg
+│   └── result.png
+├── app.js
+├── index.html
+├── style.css
+└── README.md
+```
+
 ## 📚 Concepts Practiced
 
 * DOM Manipulation
