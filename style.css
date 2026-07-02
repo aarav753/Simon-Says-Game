@@ -6,7 +6,7 @@ body{
         #243b55
     ); */
     color: white; 
-    background-image: url("inline_image_preview.jpg");
+    background-image: url("images/inline_image_preview.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
